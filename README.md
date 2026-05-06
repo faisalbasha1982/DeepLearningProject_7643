@@ -12,6 +12,7 @@ See **[CS7643_Final_Project_Report.pdf](CS7643_Final_Project_Report.pdf)** for t
 
 ## Repository structure
 
+```
 DeepLearningProject_7643/
 ├── faisalbasha_codebase_graphshield/   # Faisal: EvolveGCN + Explainability framework
 ├── mewael_codebase_graphshield/        # Mewael: Data preprocessing + Baselines + TGN
@@ -19,7 +20,7 @@ DeepLearningProject_7643/
 ├── ProjectProposal.pdf                 # Original project proposal
 ├── ProjectProposal.docx                # Editable proposal source
 └── README.md                           # This file
-
+```
 
 Each codebase folder is self-contained — its notebooks load data from a sibling `data/raw/` directory (not committed, see Setup below).
 
