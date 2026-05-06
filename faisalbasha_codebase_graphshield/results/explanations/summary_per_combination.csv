@@ -1,0 +1,9 @@
+model,method,class,n,fidelity_plus,fidelity_minus,sparsity,n_high_imp_edges
+gcn,gnn,illicit,16,0.5063,-0.0009,0.95,40.5625
+gcn,gnn,licit,50,0.0756,-0.0007,0.95,18.32
+gcn,pg,illicit,16,0.5063,-0.0009,0.95,50.6875
+gcn,pg,licit,50,0.0756,-0.0007,0.95,68.4
+graphsage,gnn,illicit,8,0.0742,-0.0,0.95,66.25
+graphsage,gnn,licit,50,0.039,-0.0,0.95,15.1
+graphsage,pg,illicit,8,0.0742,-0.0002,0.95,68.25
+graphsage,pg,licit,50,0.039,0.001,0.95,4.82

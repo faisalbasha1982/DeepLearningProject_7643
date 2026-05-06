@@ -1,0 +1,5 @@
+model,method,fid_plus,fid_minus
+gcn,gnn,0.18,-0.0007
+gcn,pg,0.18,-0.0007
+graphsage,gnn,0.0439,-0.0
+graphsage,pg,0.0439,0.0009
